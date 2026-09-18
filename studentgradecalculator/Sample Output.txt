@@ -1,0 +1,7 @@
+Student Name: Rahul
+Roll Number: 101
+Subject 1: 85
+Subject 2: 90
+Subject 3: 78
+Subject 4: 88
+Subject 5: 92
